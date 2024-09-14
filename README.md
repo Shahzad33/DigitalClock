@@ -1,4 +1,4 @@
 <h1 align="center">Hi 👋, Welcome to Digital Clock</h1>
-<h3 align="center">I developed the Small Digital Clock</h3>
+<h3 align="center">I have developed the Small Digital Clock</h3>
 
-- 🌱 I’m currently learning **HTML, CSS and JavaScript**
+- 🌱 I’m currently learning and working **HTML, CSS and JavaScript**
