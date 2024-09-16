@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, Welcome to Digital Clock</h1>
-<h3 align="center">I have developed the Small Digital Clock</h3>
+<h1 align="center">Hi Everyone👋, happy Diwali</h1>
+- 🌱 This design is developed with **HTML and CSS**
 
-- 🌱 I’m currently learning and working **HTML, CSS and JavaScript**
-
-  ![logo](https://github.com/Shahzad33/DigitalClock/blob/main/clock.png)
+  ![logo](https://github.com/Shahzad33/diwaliWishes/blob/main/diwaliWishes.png)
